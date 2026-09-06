@@ -1,0 +1,6 @@
+.wrap { background: var(--color-primary-dark); color: #fff; padding: 64px 0 56px; }
+.breadcrumb { display: flex; align-items: center; gap: 8px; font-size: 13.5px; color: rgba(255,255,255,0.65); margin-bottom: 20px; }
+.breadcrumb a:hover { color: #fff; }
+.eyebrow { font-weight: 600; font-size: 14px; color: var(--color-accent); margin-bottom: 12px; }
+.title { color: #fff; font-size: clamp(28px, 3.6vw, 42px); margin-bottom: 14px; max-width: 720px; }
+.description { color: rgba(255,255,255,0.82); max-width: 620px; font-size: 15.5px; line-height: 1.6; }

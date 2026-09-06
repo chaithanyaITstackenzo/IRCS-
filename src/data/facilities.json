@@ -1,0 +1,13 @@
+{
+  "intro": "Our hospital is equipped with state-of-the-art technology to detect and treat cancer \u2014 investing in the latest diagnostic and treatment equipment to provide precise, effective care.",
+  "equipment": [
+    { "name": "Linear Accelerator", "description": "Advanced radiation therapy delivery.", "image": "https://ircscancerhospital.org/wp-content/uploads/2024/07/linear-accelerator.png" },
+    { "name": "CT Machine", "description": "Detailed cross-sectional body imaging for accurate diagnosis.", "image": "https://ircscancerhospital.org/wp-content/uploads/2024/07/CTMachine.png" },
+    { "name": "Digital Mammogram", "description": "Precise breast cancer detection and diagnosis.", "image": "https://ircscancerhospital.org/wp-content/uploads/2024/07/Digital-mammogram.png" },
+    { "name": "Colposcope", "description": "Accurate cervical exams, biopsies and cancer prevention.", "image": "https://ircscancerhospital.org/wp-content/uploads/2024/07/Colposcope-machine.png" },
+    { "name": "Harmonic Scalpel", "description": "Precise cutting and coagulation in surgery.", "image": "https://ircscancerhospital.org/wp-content/uploads/2024/07/Harmonic-scalpel.png" },
+    { "name": "Laparoscope", "description": "Minimally invasive surgical tool.", "image": "https://ircscancerhospital.org/wp-content/uploads/2024/07/Laparoscope.png" },
+    { "name": "HDR Brachytherapy", "description": "Targeted internal radiation therapy.", "image": "https://ircscancerhospital.org/wp-content/uploads/2024/07/HDR-Brachy-therapy-machine.png" },
+    { "name": "Ultrasound", "description": "Real-time imaging for a range of diagnostics.", "image": "https://ircscancerhospital.org/wp-content/uploads/2024/07/ultrasound.png" }
+  ]
+}

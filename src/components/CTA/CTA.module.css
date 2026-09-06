@@ -1,0 +1,4 @@
+.wrap { background: var(--color-primary-dark); padding: 96px 0; }
+.inner { text-align: center; max-width: 720px; margin: 0 auto; }
+.heading { color: #fff; font-size: clamp(26px, 3.4vw, 38px); margin-bottom: 36px; }
+.actions { display: flex; justify-content: center; flex-wrap: wrap; gap: 16px; }

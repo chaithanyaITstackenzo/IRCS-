@@ -1,0 +1,11 @@
+{
+  "eyebrow": "Indian Red Cross Society \u2014 Cancer Hospital, Nellore",
+  "heading": "Cancer is a chapter, not the entire story.",
+  "subheading": "Your life matters. Your courage matters. Your recovery matters.",
+  "description": "Surgical, medical and radiation oncology under one roof \u2014 serving Nellore, Prakasam, Chittoor and Kadapa with expert, affordable cancer care since 2001.",
+  "backgroundImage": "https://ircscancerhospital.org/wp-content/uploads/2024/07/image8-scaled.jpg",
+  "ctaButtons": [
+    { "label": "Explore Our Departments", "target": "departments", "type": "primary" },
+    { "label": "Contact the Hospital", "target": "contact", "type": "outline" }
+  ]
+}

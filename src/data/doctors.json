@@ -1,0 +1,58 @@
+[
+  {
+    "id": "nageshwar-rao",
+    "name": "Dr Nageshwar Rao",
+    "designation": "Surgical Oncologist \u2014 Medical Superintendent",
+    "department": "Surgical Oncology",
+    "image": "https://ircscancerhospital.org/wp-content/uploads/2023/08/DrNageswarRao-650x800.png",
+    "sourceUrl": "https://ircscancerhospital.org/team-member/drnageswarrao/"
+  },
+  {
+    "id": "t-lakshmi",
+    "name": "Dr T. Lakshmi",
+    "designation": "MBBS, DGO \u2014 Chief Medical Officer",
+    "department": "Medical Administration",
+    "image": "https://ircscancerhospital.org/wp-content/uploads/2023/08/DrLakshmi-650x800.png",
+    "sourceUrl": "https://ircscancerhospital.org/team-member/dr-lakshmi/"
+  },
+  {
+    "id": "geetha-ushasree",
+    "name": "Dr. K. Geetha Ushasree",
+    "designation": "Senior Radiation Oncologist \u2014 HOD",
+    "department": "Radiation Oncology",
+    "image": "https://ircscancerhospital.org/wp-content/uploads/2023/08/DrGeetha-650x800.png",
+    "sourceUrl": "https://ircscancerhospital.org/team-member/dr-geethaushasree/"
+  },
+  {
+    "id": "muthu",
+    "name": "Dr Muthu",
+    "designation": "Consultant Surgical Oncologist",
+    "department": "Surgical Oncology",
+    "image": "https://ircscancerhospital.org/wp-content/uploads/2024/08/drmuthu-1-650x800.png",
+    "sourceUrl": "https://ircscancerhospital.org/team-member/drmuthu/"
+  },
+  {
+    "id": "haritha-rani",
+    "name": "Dr. Haritha Rani",
+    "designation": "MBBS, DMRD, MD \u2014 Radiologist",
+    "department": "Radiology",
+    "image": "https://ircscancerhospital.org/wp-content/uploads/2024/08/drharitha-2-650x800.png",
+    "sourceUrl": "https://ircscancerhospital.org/team-member/dr-haritha/"
+  },
+  {
+    "id": "k-nanditha",
+    "name": "Dr. K. Nanditha",
+    "designation": "MBBS, MD Pathology",
+    "department": "Pathology & Biochemistry",
+    "image": "https://ircscancerhospital.org/wp-content/uploads/2024/08/DrNandhitha-650x800.png",
+    "sourceUrl": "https://ircscancerhospital.org/team-member/dr-k-nanditha/"
+  },
+  {
+    "id": "vishnu-vardhan-juture",
+    "name": "Dr. Vishnu Vardhan Juture",
+    "designation": "Consultant Medical Oncologist",
+    "department": "Medical Oncology",
+    "image": "https://ircscancerhospital.org/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-12-at-12.14.44-650x830.jpeg",
+    "sourceUrl": "https://ircscancerhospital.org/team-member/dr-vishnu-vardhan-juture/"
+  }
+]

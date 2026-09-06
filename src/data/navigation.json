@@ -1,0 +1,28 @@
+{
+  "phone": "+91 861 234 1714",
+  "phoneDisplay": "0861 234 1714",
+  "logoText": "IRCS Cancer Hospital",
+  "items": [
+    { "label": "Home", "type": "route", "to": "/" },
+    { "label": "About", "type": "dropdown", "children": [
+      { "label": "About the Hospital", "type": "scroll", "to": "about" },
+      { "label": "NABH Accreditation Status", "type": "scroll", "to": "nabh" }
+    ]},
+    { "label": "Doctors", "type": "route", "to": "/doctors" },
+    { "label": "Services", "type": "dropdown", "children": [
+      { "label": "Surgical Oncology", "type": "route", "to": "/departments/surgical-oncology" },
+      { "label": "Medical Oncology", "type": "route", "to": "/departments/medical-oncology" },
+      { "label": "Radiation Oncology", "type": "route", "to": "/departments/radiation-oncology" },
+      { "label": "Gynaec & Breast Clinic", "type": "route", "to": "/departments/breast-clinic" },
+      { "label": "Radiology", "type": "route", "to": "/departments/radiology" },
+      { "label": "Pathology & Biochemistry", "type": "route", "to": "/departments/pathology" },
+      { "label": "Facilities", "type": "scroll", "to": "facilities" },
+      { "label": "Insurance & Schemes", "type": "scroll", "to": "insurance" }
+    ]},
+    { "label": "Packages", "type": "scroll", "to": "packages" },
+    { "label": "Awareness", "type": "route", "to": "/awareness" },
+    { "label": "Gallery", "type": "scroll", "to": "gallery" },
+    { "label": "Contact", "type": "scroll", "to": "contact" }
+  ],
+  "donateCta": { "label": "Donate", "type": "scroll", "to": "donate" }
+}

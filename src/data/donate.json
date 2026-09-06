@@ -1,0 +1,17 @@
+{
+  "heading": "Every Patient Deserves Hope, Care and Dignity",
+  "paragraphs": [
+    "The Indian Red Cross Cancer Hospital is dedicated to providing affordable, quality cancer care to those in need \u2014 especially underprivileged patients who may otherwise struggle to access treatment. With your generosity, we can continue to make sure no one fights cancer alone.",
+    "Your contribution supports subsidised treatment, advanced medical facilities, compassionate patient care and community awareness programs."
+  ],
+  "ways": [
+    { "title": "Donate Now", "description": "Your contribution, big or small, helps fund critical treatments." },
+    { "title": "Partner With Us", "description": "Corporate sponsorships and CSR partnerships amplify our impact." },
+    { "title": "Volunteer or Spread the Word", "description": "Every effort counts in the fight against cancer." }
+  ],
+  "qrCodes": [
+    { "label": "Annaprasadam Donation", "image": "https://ircscancerhospital.org/wp-content/uploads/elementor/thumbs/QrCode-r1ojsogyhhqp1mhniwkrs8oyz4yildtjx2utyk9p5s.png" },
+    { "label": "General Donation", "image": "https://ircscancerhospital.org/wp-content/uploads/elementor/thumbs/ircsQR-GeneralDonation-r3rduvmrh4jb1kmi8q0zl41698bul0b2y708clv5pc.png" }
+  ],
+  "note": "Please complete the donation form after making a UPI payment via the QR codes above, or contact the hospital directly to arrange your contribution."
+}

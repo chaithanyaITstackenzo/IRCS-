@@ -1,0 +1,17 @@
+{
+  "heading": "Insurance & Schemes",
+  "intro": "To ensure patients receive the best treatment without financial burden, IRCS Cancer Hospital supports several government and corporate health schemes.",
+  "schemes": [
+    { "name": "Dr. NTR Vaidya Seva (Aarogyasri)", "description": "A flagship health scheme by the Government of Andhra Pradesh providing financial assistance for specialised medical treatments." },
+    { "name": "Aarogya Raksha", "description": "A comprehensive health scheme for families not covered under Aarogyasri." },
+    { "name": "Aarogya Bhadratha", "description": "A dedicated health scheme for Andhra Pradesh Police personnel and their families." },
+    { "name": "Employee Health Scheme (EHS)", "description": "Healthcare cover for state government employees and pensioners." },
+    { "name": "AP GENCO Health Scheme", "description": "Medical reimbursement for employees of AP GENCO and their dependents." }
+  ],
+  "highlights": [
+    "Cashless treatment available under eligible schemes",
+    "Advanced cancer care with state-of-the-art facilities",
+    "Experienced oncologists and specialised medical teams",
+    "Hassle-free insurance claim assistance"
+  ]
+}

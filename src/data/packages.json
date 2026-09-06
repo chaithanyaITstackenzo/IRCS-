@@ -1,0 +1,33 @@
+{
+  "note": "Packages are available exclusively on Fridays and Saturdays. For fasting blood samples, the lab opens at 7:30 AM.",
+  "plans": [
+    {
+      "slug": "general-checkup",
+      "name": "General Health Checkup",
+      "audience": "Male and Female",
+      "price": "\u20b91,100",
+      "tests": ["Chest X-Ray (PA View)", "ECG", "CBP", "Hemoglobin, RBC & WBC Count", "Platelet Count", "ESR, PCV, MCV", "Urine Routine", "Blood Grouping", "Blood Sugar (Fasting & PP)", "Blood Urea & Serum Creatinine", "Thyroid Profile (T3, T4, TSH)", "Lipid Profile", "Liver Function Test (LFT)", "Doctor Consultation"]
+    },
+    {
+      "slug": "cancer-master-male",
+      "name": "Cancer Master Health Checkup",
+      "audience": "Male",
+      "price": "\u20b92,100",
+      "tests": ["USG Abdomen", "Chest X-Ray (PA View)", "PSA Levels", "ECG", "CBP & Blood Counts", "Urine Routine", "Blood Grouping", "Blood Sugar (Fasting & PP)", "Thyroid Profile", "Lipid Profile", "Liver Function Test (LFT)", "Doctor Consultation"]
+    },
+    {
+      "slug": "cancer-master-female",
+      "name": "Cancer Master Health Checkup",
+      "audience": "Female",
+      "price": "\u20b93,300",
+      "tests": ["Pap Smear", "Bilateral Mammogram", "USG Abdomen & Breast", "Chest X-Ray (PA View)", "ECG", "CBP & Blood Counts", "Urine Routine", "Blood Grouping", "Thyroid Profile", "Lipid Profile", "Liver Function Test (LFT)", "Doctor Consultation"]
+    },
+    {
+      "slug": "cancer-screening-female",
+      "name": "Cancer Screening Health Checkup",
+      "audience": "Female",
+      "price": "\u20b92,300",
+      "tests": ["Pap Smear", "Bilateral Mammogram", "USG Abdomen & Breast", "Chest X-Ray (PA View)", "CBP & Blood Counts", "Doctor Consultation"]
+    }
+  ]
+}

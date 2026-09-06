@@ -1,0 +1,93 @@
+[
+  {
+    "slug": "surgical-oncology",
+    "name": "Surgical Oncology",
+    "shortDescription": "Precision surgical management of a wide range of cancers, combining minimally invasive techniques with complex open surgery.",
+    "image": "https://ircscancerhospital.org/wp-content/uploads/2024/08/Onco-Surgery-1024x574.jpg",
+    "intro": "Our Surgical Oncology department is dedicated to providing cutting-edge, compassionate care for patients battling cancer. Our team of expert surgeons specializes in the surgical management of a wide range of cancers, combining precision surgery with multidisciplinary care so each patient receives a personalized treatment plan.",
+    "points": [
+      "Multidisciplinary approach with medical oncologists, radiologists and other specialists",
+      "Minimally invasive, robotic-assisted and complex open surgical techniques",
+      "Tumor removal, staging and biopsy procedures",
+      "Curative and palliative surgical care",
+      "Reconstructive surgery where tumor removal affects function or appearance",
+      "Preventive surgery for patients at high genetic risk",
+      "Patient-centred communication and support throughout treatment"
+    ]
+  },
+  {
+    "slug": "medical-oncology",
+    "name": "Medical Oncology",
+    "shortDescription": "Chemotherapy, immunotherapy and targeted therapy tailored to each patient, established as a dedicated department in 2019.",
+    "image": null,
+    "intro": "Our medical oncology services provide comprehensive care for patients battling cancer, with a focus on personalized treatment and advanced therapies \u2014 chemotherapy, immunotherapy and targeted therapy \u2014 tailored to each patient's cancer type, stage and overall health.",
+    "points": [
+      "Full spectrum of chemotherapy, immunotherapy and targeted therapy",
+      "Individualized treatment plans developed with other specialists",
+      "Supportive care: pain management, nutrition support and counselling",
+      "Patient and family education on diagnosis, treatment and side effects",
+      "Multidisciplinary coordination with surgeons and radiation oncologists",
+      "Access to clinical trials where available"
+    ]
+  },
+  {
+    "slug": "radiation-oncology",
+    "name": "Radiation Oncology",
+    "shortDescription": "High-precision conformal radiotherapy on Elekta iBEAM\u00ae evo LINAC technology, including 3D image-guided brachytherapy.",
+    "image": "https://ircscancerhospital.org/wp-content/uploads/2023/08/endframe-final-1024x576.jpg",
+    "intro": "The Radiation Oncology team delivers high-precision conformal radiotherapy using the Elekta iBEAM\u00ae evo system. The department runs an active brachytherapy unit specialising in High Dose Rate (HDR) 3D Image-Guided Brachytherapy, with substantial experience in intracavitary brachytherapy for gynaecological, urethral and oesophageal cancers.",
+    "points": [
+      "3D Conformal Radiotherapy (3DCRT)",
+      "Intensity-Modulated Radiotherapy (IMRT)",
+      "RapidArc and Volumetric Modulated Arc Therapy (VMAT)",
+      "HDR 3D image-guided brachytherapy",
+      "Advanced imaging for precise tumor visualisation and planning",
+      "Adaptive radiotherapy adjusted to daily changes in the tumor",
+      "Real-time monitoring during treatment delivery"
+    ]
+  },
+  {
+    "slug": "breast-clinic",
+    "name": "Gynaec & Breast Clinic",
+    "shortDescription": "Diagnosis, staging and screening for gynaecological and breast cancers, backed by over 500 community awareness camps.",
+    "image": "https://ircscancerhospital.org/wp-content/uploads/2023/08/instruments-1-1024x576.png",
+    "intro": "The clinic focuses on the diagnosis and staging of gynaecological cancers and breast cancer using colposcopy and digital mammography, alongside comprehensive screening programs for early detection. The team has also conducted over 500 educational camps in colleges, schools and villages to raise cancer awareness.",
+    "points": [
+      "Colposcopy for cervical, vaginal and vulval examination",
+      "Digital mammography for breast cancer screening",
+      "Diagnosis and staging of gynaecological and breast cancers",
+      "Screening programs for early detection",
+      "500+ community and institutional awareness camps conducted",
+      "Personalised treatment plans for each patient"
+    ]
+  },
+  {
+    "slug": "radiology",
+    "name": "Radiology",
+    "shortDescription": "X-ray, CT and mammography imaging supporting early detection, diagnosis, treatment planning and follow-up.",
+    "image": "https://ircscancerhospital.org/wp-content/uploads/2024/08/Firefly-RADIOLOGY-TAKING-CT-SCAN-52416-1024x1024.jpg",
+    "intro": "Radiology is a cornerstone of comprehensive cancer care at IRCS \u2014 from early detection with X-ray, CT and mammography, to guiding surgical and radiation treatment planning, to interventional procedures such as image-guided biopsies, and ongoing follow-up imaging to monitor treatment and detect recurrence.",
+    "points": [
+      "X-ray, CT and mammography imaging for early detection",
+      "Precise assessment of tumor size, location and spread",
+      "Imaging-guided treatment planning across departments",
+      "Interventional radiology for minimally invasive biopsies",
+      "Follow-up imaging to monitor treatment effectiveness",
+      "Support for palliative care interventions"
+    ]
+  },
+  {
+    "slug": "pathology",
+    "name": "Pathology & Biochemistry",
+    "shortDescription": "Tissue and biochemical analysis for accurate cancer diagnosis, staging and treatment monitoring.",
+    "image": null,
+    "intro": "The Pathology and Biochemistry lab plays a critical role in accurate diagnosis and management of cancer \u2014 analysing tissue samples to identify cancer type and stage, and conducting blood and tissue biomarker tests to monitor the body's response to treatment.",
+    "points": [
+      "Tissue sample analysis for cancer type and staging",
+      "Biochemical and biomarker testing",
+      "Early detection through advanced laboratory techniques",
+      "Monitoring of disease progression and treatment response",
+      "Timely, precise results supporting informed treatment decisions"
+    ]
+  }
+]

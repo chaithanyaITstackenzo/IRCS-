@@ -1,0 +1,8 @@
+[
+  { "label": "Emergency Line", "detail": "+91 861 234 1714", "icon": "phone", "target": "contact" },
+  { "label": "Our Doctors", "detail": "7 specialists", "icon": "doctor", "target": "/doctors" },
+  { "label": "Departments", "detail": "6 departments", "icon": "department", "target": "departments" },
+  { "label": "Health Packages", "detail": "From \u20b91,100", "icon": "package", "target": "packages" },
+  { "label": "Find Us", "detail": "Podalakur Road, Nellore", "icon": "location", "target": "contact" },
+  { "label": "Donate", "detail": "Support cancer care", "icon": "heart", "target": "donate" }
+]

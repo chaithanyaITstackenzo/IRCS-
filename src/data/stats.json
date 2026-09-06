@@ -1,0 +1,35 @@
+{
+  "icu": [
+    {
+      "name": "Surgical ICU",
+      "image": "https://ircscancerhospital.org/wp-content/uploads/2024/08/049A6239A.png-scaled.jpg",
+      "metrics": [
+        { "label": "Beds", "value": 12 },
+        { "label": "Monitors", "value": 12 },
+        { "label": "Ventilator", "value": 1 },
+        { "label": "Defibrillators", "value": 9 },
+        { "label": "Oxygen points", "value": 12 }
+      ]
+    },
+    {
+      "name": "Chemo ICU",
+      "image": "https://ircscancerhospital.org/wp-content/uploads/2024/08/049A6239-scaled.jpg",
+      "metrics": [
+        { "label": "Beds", "value": 12 },
+        { "label": "Monitors", "value": 12 },
+        { "label": "Ventilator", "value": 1 },
+        { "label": "Defibrillator", "value": 1 },
+        { "label": "Oxygen points", "value": 12 }
+      ]
+    }
+  ],
+  "staff": [
+    { "label": "Consultants", "value": 10 },
+    { "label": "Management & Admin", "value": 9 },
+    { "label": "Junior Doctors", "value": 20 },
+    { "label": "Nursing Staff", "value": 43 },
+    { "label": "Technical Staff", "value": 35 },
+    { "label": "House Keeping", "value": 48 },
+    { "label": "Other Staff", "value": 25 }
+  ]
+}

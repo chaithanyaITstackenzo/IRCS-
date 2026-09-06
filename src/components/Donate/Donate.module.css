@@ -1,0 +1,13 @@
+.paragraph { color: var(--color-muted); line-height: 1.7; margin-bottom: 14px; max-width: 720px; font-size: 15.5px; }
+.ways { display: grid; grid-template-columns: repeat(3, 1fr); gap: 22px; margin: 40px 0; }
+.wayCard { background: var(--color-surface); padding: 24px; border-radius: var(--radius-md); box-shadow: var(--shadow-soft); }
+.wayCard h3 { font-size: 16.5px; margin-bottom: 8px; }
+.wayCard p { font-size: 14px; color: var(--color-muted); line-height: 1.55; }
+
+.qrRow { display: flex; gap: 32px; flex-wrap: wrap; margin-top: 16px; }
+.qrCard { text-align: center; }
+.qrCard img { width: 150px; height: 150px; object-fit: contain; border-radius: var(--radius-sm); background: #fff; padding: 10px; box-shadow: var(--shadow-soft); margin-bottom: 10px; }
+.qrCard p { font-size: 13.5px; font-weight: 600; color: var(--color-muted); }
+.note { font-size: 13.5px; color: var(--color-muted); margin-top: 20px; max-width: 600px; }
+
+@media (max-width: 900px) { .ways { grid-template-columns: 1fr; } }

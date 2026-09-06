@@ -1,0 +1,16 @@
+{
+  "description": "A unit of the Indian Red Cross Society, providing compassionate, affordable cancer care in Nellore since 2001.",
+  "logo": "https://ircscancerhospital.org/wp-content/uploads/2024/07/logo11.png",
+  "tagline": "Always here, always caring \u2014 serving you every hour, every day.",
+  "quickLinks": [
+    { "label": "About", "to": "about" },
+    { "label": "Doctors", "to": "/doctors" },
+    { "label": "Departments", "to": "departments" },
+    { "label": "Facilities", "to": "facilities" },
+    { "label": "Packages", "to": "packages" },
+    { "label": "Awareness", "to": "/awareness" },
+    { "label": "Gallery", "to": "gallery" },
+    { "label": "Contact", "to": "contact" }
+  ],
+  "departmentLinks": ["Surgical Oncology", "Medical Oncology", "Radiation Oncology", "Radiology", "Pathology & Biochemistry", "Gynaec & Breast Clinic"]
+}

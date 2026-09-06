@@ -1,0 +1,17 @@
+{
+  "categories": ["All", "Hospital", "Awareness Camps", "Annaprasadam"],
+  "items": [
+    { "category": "Hospital", "image": "https://ircscancerhospital.org/wp-content/uploads/2024/08/049A6239A.png-scaled.jpg", "caption": "Surgical ICU" },
+    { "category": "Hospital", "image": "https://ircscancerhospital.org/wp-content/uploads/2024/08/049A6239-scaled.jpg", "caption": "Chemo ICU" },
+    { "category": "Hospital", "image": "https://ircscancerhospital.org/wp-content/uploads/elementor/thumbs/049A6239a-scaled-qt80q4dlsjduplgavpfalxscngn8fkvb9wey085fpw.jpg", "caption": "Nursing Care" },
+    { "category": "Hospital", "image": "https://ircscancerhospital.org/wp-content/uploads/2024/07/10speechlecture915-1024x731.jpg", "caption": "Hospital Campus" },
+    { "category": "Awareness Camps", "image": "https://ircscancerhospital.org/wp-content/uploads/2024/08/452255116_452430154349754_3181609350636258496_n.jpg", "caption": "Community Awareness Camp" },
+    { "category": "Awareness Camps", "image": "https://ircscancerhospital.org/wp-content/uploads/2026/02/8-1-768x768.jpg", "caption": "Zenex Vision Degree College Campaign" },
+    { "category": "Awareness Camps", "image": "https://ircscancerhospital.org/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-07-at-5.28.48-PM-1-768x344.jpeg", "caption": "National Cancer Awareness Day" },
+    { "category": "Awareness Camps", "image": "https://ircscancerhospital.org/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-23-at-10.19.15-AM-1-768x355.jpg", "caption": "Krishna Chaitanya Junior College Camp" },
+    { "category": "Annaprasadam", "image": "https://ircscancerhospital.org/wp-content/uploads/2024/07/452570037_454832317442871_6492618015935498745_n.jpg", "caption": "Free Food for Cashless Patients" },
+    { "category": "Annaprasadam", "image": "https://ircscancerhospital.org/wp-content/uploads/2024/07/450745242_446776258248477_7585053041877236721_n.jpg", "caption": "Subsidised Meals" },
+    { "category": "Annaprasadam", "image": "https://ircscancerhospital.org/wp-content/uploads/2024/07/450005656_444248628501240_6831799843348745102_n.jpg", "caption": "Annadanam Scheme Donations" },
+    { "category": "Annaprasadam", "image": "https://ircscancerhospital.org/wp-content/uploads/2024/07/fooddonations.jpg", "caption": "Food Donations" }
+  ]
+}

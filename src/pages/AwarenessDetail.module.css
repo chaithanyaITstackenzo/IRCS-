@@ -1,0 +1,19 @@
+.heroImage { position: relative; height: 360px; background-size: cover; background-position: center; display: flex; align-items: flex-end; }
+.heroOverlay { position: absolute; inset: 0; background: linear-gradient(to top, rgba(9,35,42,0.92), rgba(9,35,42,0.35)); }
+.heroContent { position: relative; z-index: 1; padding-bottom: 40px; }
+.backLink { display: inline-flex; align-items: center; gap: 8px; color: #fff; font-weight: 600; margin-bottom: 18px; font-size: 14px; }
+.title { color: #fff; font-size: clamp(24px, 3.4vw, 36px); max-width: 760px; }
+
+.grid { display: grid; grid-template-columns: 1.6fr 1fr; gap: 56px; }
+.summary { font-size: 17px; line-height: 1.7; color: var(--color-ink); margin-bottom: 28px; }
+.metaList { display: flex; flex-direction: column; gap: 14px; margin-bottom: 24px; }
+.metaItem { display: flex; align-items: center; gap: 10px; font-size: 15px; color: var(--color-muted); }
+.organiser { font-size: 14px; color: var(--color-muted); font-style: italic; }
+
+.related h3 { font-family: var(--font-display); font-size: 18px; margin-bottom: 20px; }
+.relatedCard { display: flex; gap: 12px; margin-bottom: 16px; align-items: center; }
+.relatedCard img { width: 72px; height: 72px; border-radius: var(--radius-sm); object-fit: cover; flex-shrink: 0; }
+.relatedCard span { font-size: 12px; color: var(--color-primary); font-weight: 700; }
+.relatedCard p { font-size: 13.5px; line-height: 1.4; margin-top: 4px; }
+
+@media (max-width: 900px) { .grid { grid-template-columns: 1fr; gap: 32px; } }

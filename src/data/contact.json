@@ -1,0 +1,15 @@
+{
+  "address": ["Podalakur Road", "Nellore 524004", "Andhra Pradesh, India"],
+  "phones": ["0861 234 1714", "0861 232 2365", "93923 41714"],
+  "email": "info@ircscancerhospital.org",
+  "hours": [
+    { "days": "Monday \u2013 Saturday", "time": "10:00 AM \u2013 5:00 PM" },
+    { "days": "Sunday", "time": "Closed" }
+  ],
+  "mapQuery": "Indian Red Cross Society Cancer Hospital, Nellore",
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61573240080617",
+    "instagram": "https://www.instagram.com/cancerhospitalnellore/",
+    "youtube": "https://www.youtube.com/@IRCSCANCERHOSPITAL"
+  }
+}

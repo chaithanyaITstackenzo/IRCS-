@@ -1,0 +1,47 @@
+.grid {
+  display: grid;
+  grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr);
+  gap: 3.5rem;
+  align-items: start;
+}
+
+.image {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.backLink {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  margin-bottom: 1.5rem;
+  color: var(--color-primary);
+  font-weight: 700;
+}
+
+.heading {
+  margin-bottom: 1rem;
+}
+
+.intro {
+  margin-bottom: 1.5rem;
+  color: var(--color-text-muted);
+  line-height: 1.8;
+}
+
+.points {
+  display: grid;
+  gap: 0.85rem;
+  padding-left: 1.25rem;
+  color: var(--color-text);
+  line-height: 1.6;
+}
+
+@media (max-width: 768px) {
+  .grid {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+}

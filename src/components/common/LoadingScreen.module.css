@@ -1,0 +1,22 @@
+.wrap {
+  position: fixed;
+  inset: 0;
+  z-index: 20000;
+  background: var(--color-paper);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: opacity 0.5s ease, visibility 0.5s ease;
+}
+.hidden { opacity: 0; visibility: hidden; pointer-events: none; }
+.mark { position: relative; width: 64px; height: 64px; display: flex; align-items: center; justify-content: center; }
+.ring {
+  position: absolute;
+  inset: 0;
+  border: 3px solid var(--color-primary-light);
+  border-top-color: var(--color-primary);
+  border-radius: 50%;
+  animation: spin 0.9s linear infinite;
+}
+.plus { font-family: var(--font-display); font-size: 22px; font-weight: 700; color: var(--color-primary); }
+@keyframes spin { to { transform: rotate(360deg); } }
