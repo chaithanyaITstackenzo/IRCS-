@@ -16,6 +16,7 @@ const DoctorDetail = lazy(() => import('./pages/DoctorDetail'));
 const DepartmentDetail = lazy(() => import('./pages/DepartmentDetail'));
 const AwarenessList = lazy(() => import('./pages/AwarenessList'));
 const AwarenessDetail = lazy(() => import('./pages/AwarenessDetail'));
+const PrivacyPolicy = lazy(() => import('./pages/PrivacyPolicy'));
 const NotFound = lazy(() => import('./pages/NotFound'));
 
 function ScrollToTop() {
@@ -53,6 +54,7 @@ export default function App() {
             <Route path="/departments/:slug" element={<DepartmentDetail />} />
             <Route path="/awareness" element={<AwarenessList />} />
             <Route path="/awareness/:slug" element={<AwarenessDetail />} />
+            <Route path="/privacy-policy" element={<PrivacyPolicy />} />
             <Route path="*" element={<NotFound />} />
           </Routes>
         </Suspense>

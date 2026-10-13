@@ -10,7 +10,8 @@
     { "label": "Packages", "to": "packages" },
     { "label": "Awareness", "to": "/awareness" },
     { "label": "Gallery", "to": "gallery" },
-    { "label": "Contact", "to": "contact" }
+    { "label": "Contact", "to": "contact" },
+    { "label": "Privacy Policy", "to": "/privacy-policy" }
   ],
   "departmentLinks": ["Surgical Oncology", "Medical Oncology", "Radiation Oncology", "Radiology", "Pathology & Biochemistry", "Gynaec & Breast Clinic"]
 }

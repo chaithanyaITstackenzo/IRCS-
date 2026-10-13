@@ -1,0 +1,30 @@
+.section { padding-top: 56px; }
+.updated { margin-bottom: 24px; color: var(--color-muted); font-size: 14px; }
+.content {
+  max-width: 900px;
+  padding: 36px;
+  background: var(--color-surface);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-soft);
+}
+.policySection + .policySection { margin-top: 30px; }
+.policySection h2 { margin-bottom: 10px; font-size: 20px; }
+.policySection p { color: var(--color-muted); line-height: 1.75; }
+.policySection p + p { margin-top: 10px; }
+.contact {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  margin-top: 16px;
+  color: var(--color-muted);
+  font-style: normal;
+}
+.contact strong { color: var(--color-ink); }
+.contact a { color: var(--color-primary); }
+.contact a:hover { text-decoration: underline; }
+
+@media (max-width: 640px) {
+  .section { padding-top: 40px; }
+  .content { padding: 24px 20px; }
+}
